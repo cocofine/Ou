@@ -1,0 +1,6 @@
+framework module Ou {
+  umbrella header "Ou-umbrella.h"
+
+  export *
+  module * { export * }
+}
