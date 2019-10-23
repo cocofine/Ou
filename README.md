@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ou
 
 [![CI Status](https://img.shields.io/travis/ouyangqi/Ou.svg?style=flat)](https://travis-ci.org/ouyangqi/Ou)
@@ -27,3 +28,6 @@ ouyangqi, ouyangqi@haohaozhu.com
 ## License
 
 Ou is available under the MIT license. See the LICENSE file for more info.
+=======
+# Ou
+>>>>>>> a167461b8b692f7913770d108e43c2e9d7473ba1
